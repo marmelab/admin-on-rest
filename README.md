@@ -2,8 +2,11 @@
 
 A frontend Framework for building admin applications running in the browser on top of REST services, using ES6, [React](https://facebook.github.io/react/) and [Material Design](https://material.io/). Open sourced and maintained by [marmelab](https://marmelab.com/).
 
-**Admin-on-rest 1.x is in maintenance mode. Version 2.0 lives at [https://github.com/marmelab/react-admin](https://github.com/marmelab/react-admin).**
+---
 
+**Admin-on-rest 1.x is in maintenance mode. Version 2.x lives at [https://github.com/marmelab/react-admin](https://github.com/marmelab/react-admin).**
+
+--- 
 [Demo](https://marmelab.com/admin-on-rest-demo/) - [Documentation](https://marmelab.com/admin-on-rest/) - [Releases](https://github.com/marmelab/admin-on-rest/releases) - [Support](http://stackoverflow.com/questions/tagged/admin-on-rest)
 
 [![admin-on-rest-demo](https://marmelab.com/admin-on-rest/img/admin-on-rest-demo-still.png)](https://vimeo.com/205118063)
