@@ -8,7 +8,7 @@ A frontend Framework for building admin applications running in the browser on t
 
 ---
 
-Admin-on-rest 1.x is in maintenance mode. Version 2.x lives at [https://github.com/marmelab/react-admin](https://github.com/marmelab/react-admin).
+Admin-on-rest 1.x is in maintenance mode. Version 2.x lives at [marmelab/react-admin](https://marmelab.com/react-admin/).
 
 ---
 
