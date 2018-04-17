@@ -6,6 +6,12 @@ title: "Documentation"
 
 A frontend Framework for building admin applications running in the browser on top of REST services, using ES6, [React](https://facebook.github.io/react/) and [Material Design](https://material.io/). Open sourced and maintained by [marmelab](https://marmelab.com/).
 
+---
+
+Admin-on-rest 1.x is in maintenance mode. Version 2.x lives at [https://github.com/marmelab/react-admin](https://github.com/marmelab/react-admin).
+
+---
+
 <div style="text-align: center" markdown="1">
 <i class="octicon octicon-device-desktop"></i> [Demo](https://marmelab.com/admin-on-rest-demo/) -
 <i class="octicon octicon-mark-github"></i> [Source](https://github.com/marmelab/admin-on-rest) -
