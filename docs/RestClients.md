@@ -241,10 +241,10 @@ This way, you can use simply your upload-capable client to your app calling this
 
 ```jsx
 import jsonRestClient from 'aor-json-rest-client';
-import addUploadFeature from './addUploadFeature';
+import addUploadCapabilities from './addUploadCapabilities';
 
 const restClient = jsonRestClient(data, true);
-const uploadCapableClient = addUploadFeature(restClient);
+const uploadCapableClient = addUploadCapabilities(restClient);
 
 render(
     <Admin restClient={uploadCapableClient} title="Example Admin">
