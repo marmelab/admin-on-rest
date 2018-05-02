@@ -270,6 +270,7 @@ class MyLoginPage extends Component {
 export default connect(undefined, { userLogin })(MyLoginPage);
 
 // in src/MyLogoutButton.js
+import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { userLogout } from 'admin-on-rest';
 
