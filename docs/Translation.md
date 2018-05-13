@@ -60,6 +60,7 @@ You can find translation packages for the following languages:
 - Norwegian (`nb`): [zeusbaba/aor-language-norwegian](https://github.com/zeusbaba/aor-language-norwegian)
 - Polish (`pl`): [KamilDzierbicki/aor-language-polish](https://github.com/KamilDzierbicki/aor-language-polish)
 - Portuguese (`pt`): [movibe/aor-language-portugues](https://github.com/movibe/aor-language-portugues)
+- Romanian (`ro`): [CScaleSoftware/aor-language-romanian](https://github.com/CScaleSoftware/aor-language-romanian)
 - Russian (`ru`): [cytomich/aor-language-russian](https://github.com/cytomich/aor-language-russian)
 - Slovak (`sk`): [zavadpe/aor-language-slovak](https://github.com/zavadpe/aor-language-slovak)
 - Slovenian (`sl`): [ariskemper/aor-language-slovenian](https://github.com/ariskemper/aor-language-slovenian)
