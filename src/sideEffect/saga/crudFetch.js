@@ -18,12 +18,13 @@ const crudFetch = restClient => {
         const { type, payload, meta: { fetch: fetchMeta, ...meta } } = action;
         const restType = fetchMeta;
 
-        yield all([
-            put({ type: `${type}_LOADING`, payload, meta }),
-            put({ type: FETCH_START }),
-        ]);
         let response;
         try {
+            yield all([
+                put({ type: `${type}_LOADING`, payload, meta }),
+                put({ type: FETCH_START }),
+            ]);
+
             response = yield call(restClient, restType, meta.resource, payload);
             if (!response.data) {
                 throw new Error('REST response must contain a data key');
