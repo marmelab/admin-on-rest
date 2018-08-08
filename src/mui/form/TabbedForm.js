@@ -173,6 +173,7 @@ const enhance = compose(
     reduxForm({
         form: 'record-form',
         enableReinitialize: true,
+        destroyOnUnmount: false, // do not destroy to preserve state across navigation
     }),
     muiThemeable()
 );
