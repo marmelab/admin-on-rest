@@ -142,6 +142,7 @@ const enhance = compose(
     reduxForm({
         form: 'filterForm',
         enableReinitialize: true,
+        destroyOnUnmount: false, // do not destroy to preserve state across navigation
         onChange: (values, dispatch, props) => props.setFilters(values),
     })
 );
